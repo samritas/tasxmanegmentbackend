@@ -4,6 +4,9 @@ here the git egnir ignored the node mudule?
 # dependencies
 node_modules/
 
+#enviroment
+.env
+
 # Expo
 .expo/
 dist/
